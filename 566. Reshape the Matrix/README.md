@@ -2,6 +2,7 @@
 # 566. Reshape the Matrix
 
 Leet Easy 🟢 | [Original Leetcode Link](https://leetcode.com/problems/reshape-the-matrix/)
+> Asked by Apple, Bloomberg, Adobe & more
 
 In MATLAB, there is a handy function called `reshape` which can reshape an `m x n` matrix into a new one with a different size `r x c` keeping its original data.
 

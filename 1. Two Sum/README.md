@@ -2,6 +2,7 @@
 # 1. Two Sum
 
 Leet Easy 🟢 | [Original Leetcode Link](https://leetcode.com/problems/two-sum/)
+> Asked by Amazon, Adobe, Apple & more
 
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
