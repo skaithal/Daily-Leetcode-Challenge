@@ -13,7 +13,7 @@
 
 ___
 
-| Day | Problem |
-|--|--|
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) |
-| 2 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|
+| Day | Problem | Local Link in Repo |
+|--|--|--|
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [view our solutions](/1.%20Two%20Sum)|
+| 2 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [view our solutions](/566.%20Reshape%20the%20Matrix) |
