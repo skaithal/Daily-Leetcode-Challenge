@@ -12,6 +12,7 @@
 | Rithik Sachdeva 👑| https://github.com/rithiksachdeva |
 | Srihita Ramini | https://github.com/srihita123 |
 | Rayan Narayanaswamy | https://github.com/RayanNarayan |
+| Pranava Parasa | https://github.com/pranava0 |
 
 ___
 
