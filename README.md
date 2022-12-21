@@ -1,8 +1,10 @@
 # Daily Leetcode Challenge 
 
-> 🔖 **What:** Documenting a daily leet challenge! 
-👩🏽‍💻 **Goal:**  To consistently practice coding.
- 🌱 **Start Date:** Tuesday, December 20. 
+> 🔖 **What:** Documenting a daily leet challenge! <br/>
+> 👩🏽‍💻 **Goal:** To consistently practice coding. <br/>
+> 🌱 **Start Date:** Tuesday, December 20. 
+
+<br/>
 
 | Contributors | Github Profile |
 |--|--|
