@@ -8,8 +8,10 @@
 
 | Contributors | Github Profile |
 |--|--|
-| Sanjana Aithal ☁️✨| https://github.com/skaithal|
-| | |
+| Sanjana Aithal ☁️✨| https://github.com/skaithal |
+| Rithik Sachdeva | https://github.com/rithiksachdeva |
+| Srihita Ramini | https://github.com/srihita123 |
+| Rayan Narayanaswamy | https://github.com/RayanNarayan |
 
 ___
 
