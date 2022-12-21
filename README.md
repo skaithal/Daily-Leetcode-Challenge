@@ -1,2 +1,2 @@
 # leet
-Documenting my daily leet challenge! Starting Tuesday, December 20. 🥳
+Documenting a daily leet challenge! Starting Tuesday, December 20. 
