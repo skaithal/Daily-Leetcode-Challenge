@@ -15,7 +15,7 @@
 | Pranava Parasa | https://github.com/pranava0 |
 | Kalyan Suvarna | https://github.com/ksuvarna47 |
 | Sindura Vuppu | https://github.com/svuppu02 | 
-| Aditya Krishnan | |
+| Aditya Krishnan | https://github.com/adikrishnanucd |
 
 ___
 
