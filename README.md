@@ -25,6 +25,6 @@ ___
 | 2 | [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)| [view our solutions](/566.%20Reshape%20the%20Matrix) |
 | 3 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) <br/> [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [view our solutions](/217.%20Contains%20Duplicate) <br/> [view our solutions](/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 4 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [view our solutions](/217.%20Product%20of%20Array%20Except%20Self)|
-| 5 | [Original Leetcode Link](https://leetcode.com/problems/maximum-subarray/) | [view our solutions](/53.%20Maximum%20Subarray)|
+| 5 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [view our solutions](/53.%20Maximum%20Subarray)|
       
       
