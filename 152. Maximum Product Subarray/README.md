@@ -1,5 +1,5 @@
 
-# 238. Maximum Product Subarray
+# 152. Maximum Product Subarray
 
 Leet Medium 🟠 | [Original Leetcode Link](https://leetcode.com/problems/maximum-product-subarray/)
 
